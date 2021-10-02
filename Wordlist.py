@@ -1,4 +1,4 @@
-Hiimport time
+#Hiimport time
 #code edit from lazybee 
 #colors
 red='\033[91m'
