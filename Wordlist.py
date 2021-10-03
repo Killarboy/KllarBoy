@@ -1,4 +1,5 @@
-#Hiimport time
+import time
+import os
 #code edit from lazybee 
 #colors
 red='\033[91m'
@@ -7,7 +8,8 @@ gren='\033[92m'
 yellow='\033[93m'
 cyan='\033[96m'
 blue='\033[94m'
-system('clear')
+c=clear
+os.system('c')
 print (red+b+"""
        ***,   **   * *      * *    ** * ,       ** * ,  ** * , 
        **  *, ** *     *  *     *  ** * ,  ***  ** * ,  **   , 
